@@ -13,7 +13,7 @@ My current research interests is on **reasoning with LLMs** and exploring their 
 
 I am also interested in computational social science, particularly at the intersection of financial economics and machine learning. I have worked on topics such as the unveiling the mechanisms of activist funds selecting their next targets, and the long-term impacts of the 1997 Asian Financial Crisis on Korean elderly society.
 
-You can find a more comprehensive overview of my experiences in my [CV](/pages/files/MinwuKim_CV.pdf)
+You can find a more comprehensive overview of my experiences in my [CV](/files/MinwuKim_CV.pdf)
 
 
 Thoughts on the LLM
