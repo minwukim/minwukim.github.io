@@ -5,10 +5,6 @@ permalink: /posts/unstructured/
 
 ---
 
-Here’s a refined version of your markdown:
-
----
-
 To some, Bitcoin is merely a piece of data, but to others, it's an intellectual phenomenon that encapsulates modern economic history, geopolitics, and human nature. A single technology can hold vastly different meanings depending on one’s perspective (I’m a Bitcoin maximalist btw). The more you know—and the more imagination and insight you possess—the deeper that meaning becomes.
 
 The more I observe LLMs, the more this thought resonates. Some dismiss LLMs as limited because they simply predict the next token autoregressively. But I disagree. The potential of a machine that has mastered language is immense and will advance much further, depending on how much imagination we’re willing to apply.
