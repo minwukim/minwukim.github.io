@@ -27,10 +27,10 @@ Having a machine that understands human language means a lot. I jot down some th
   - According to the Picture Theory, the structure of the world parallels that of language. If a machine comprehends language, it is reasonable to consider it intelligent.
 - **[Abilities of LLMs and Information Density in Language](/posts/information-density/)**
   - The capabilities of LLMs fundamentally stem from their training data. From this perspective, we can understand what LLMs excel at and where their limitations lie.
-- **[From Unstructured to Structured - A Quatitative Breakthrough of Data](sds)**
-  - Between structured and unstructured data lies a tradeoff between the volume of information and its structure. LLMs, however, may serve as a breakthrough to overcome this challenge.
 - **[OpenAI o1 & Recent Trend of LLMs](/posts/o1/)**
   - Some thoughts after playing with o1.
+- **[From Unstructured to Structured - A Quatitative Breakthrough of Data](/posts/unstructured/)**
+  - Between structured and unstructured data lies a tradeoff between the volume of information and its structure. LLMs, however, may serve as a breakthrough to overcome this challenge.
 
 
 I Like
