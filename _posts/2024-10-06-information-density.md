@@ -7,19 +7,18 @@ permalink: /posts/information-density/
 #   - category2
 ---
 
-## Idea of information density
-This is a small snippet of [Nvidia fireside chat](https://www.youtube.com/watch?v=I6qQinoY9WM) with Ilya Sutskever & Jensen Huang (38:30~)
+## Idea of Information Density
+This snippet is from an [Nvidia fireside chat](https://www.youtube.com/watch?v=I6qQinoY9WM) with Ilya Sutskever and Jensen Huang (38:30~).
 
-*Consider the concept of colors. It seems intuitive that one would need to see in order to truly understand colors. Yet, text-only neural networks—having never encountered a single photon—can still correctly identify which colors are more similar to each other. For example, they know that red is more similar to orange than to blue, or that blue is closer to purple than to yellow.*
+*Consider the concept of colors. It seems intuitive that one would need to see in order to truly understand colors. Yet, text-only neural networks—having never encountered a single photon—can still correctly identify which colors are more similar to each other. For example, they know that red is closer to orange than to blue, or that blue is closer to purple than to yellow.*
 
+*How does this happen? One possible explanation is that information about the world, including visual information, gradually seeps into text. It may take longer, but since such a large amount of text is available, these models can still learn a great deal. Of course, when you incorporate vision into learning, you'll gain insights that aren't captured through text alone. However, I wouldn't say there are things entirely impossible to learn from text. Rather, it's more of a continuum—a kind of exchange rate. For humans learning from billions or even hundreds of billions of words, other sources of information, like visual input, naturally become more important.*
 
-*How does this happen? One possible explanation is that information about the world, including visual information, gradually seeps into text. It might take longer, but since there is so much text available, these models can still learn a great deal. Of course, when you incorporate vision into learning, you'll gain additional insights that aren't captured through text alone. However, I wouldn't say there are things that are entirely impossible to learn from text. Rather, it's more of a continuum—a kind of exchange rate. Particularly, if you're a human trying to learn from billions or even hundreds of billions of words, other sources of information, like visual input, naturally become more important.*
+Sutskever used the term "exchange rate," but I think "information density" is a better fit. The point is, although the density of world knowledge in the training data is low, the sheer volume of that data enables LLMs to acquire useful world knowledge.
 
-일리야 서츠케버는 exchange rate을 사용했지만, 나는 information density라는 표현이 더 나은 것 같다. 요지는 무엇이냐면, 학습된 데이터 속에 world knowledge에 대한 정보의 밀도는 아주 작으나, 그 학습데이터의 절대적인 양이 워낙 크다 보니, 그런 데이터로 학습이 된 LLM 역시 꽤 쓸만한 세계 지식의 습득 능력을 가질 수가 있는 것이다.
+About two years ago, when ChatGPT first emerged, the renowned linguist Noam Chomsky shared his thoughts in an [op-ed](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html?unlocked_article_code=1.SU4.f3Eh.s2vEbRwBIBLR&smid=url-share) for The New York Times. His main argument was that simply predicting the next word or token could never replicate human intelligence—an opinion reflecting his decades of work on transformational grammar and the Language Acquisition Device (LAD). However, looking at the current state-of-the-art LLMs, it seems clear that his assertion is, at least partially, incorrect. This is because the vast amount of training data LLMs consume contains not only world knowledge but also insights into human cognition—albeit at a low density.
 
-약 2년전 ChatGPT가 처음 나왔을 때, 저명한 언어학자 노엄촘스키가 뉴욕타임즈에 이에 대한 의견을 밝힌 [기고문](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html?unlocked_article_code=1.SU4.f3Eh.s2vEbRwBIBLR&smid=url-share)이 있다. 대충 요지는, 단순히 다음 단어/토큰을 예측하는 것만으로는 결코 인간의 지능을 모방할 수 없다는 것이었다. 수십년 전부터 변형생성문법과 언어 습득 장치(LAD, Language Acquisition Device)를 연구하고 설파하던 학자다운 주장이다. 하지만 현재 SOTA LLM을 보면 이런 주장은 상당 부분 틀렸다고 봐도 무방할 것 같다. 왜냐, LLM의 방대한 학습 정보에는 world knowledge, 그리고 사람의 사고방식에 대한 정보도 모두 낮은 밀도지만 분명하게 함유하고 있기 때문이다. 
-
-아무튼, "언어의 정보 밀도"라는 개념을 가지고 LLM을 바라보면, LLM의 특성에 대해 보다 더 깊은 이해를 할 수가 있다. 
+Ultimately, viewing LLMs through the lens of "information density" offers a deeper understanding of their capabilities. 
 
 ## Three Abilities of LLMs
 LLMs (Large Language Models) possess three different abilities. The first is the ability to use language (including grammar, vocabulary, etc.). The second is the ability to understand world knowledge. The third is reasoning ability. If we were to rank these abilities relatively, the ability to use language is the strongest, world knowledge comes second, and the weakest is reasoning.
@@ -47,10 +46,20 @@ Next, we need to review the efforts made to improve these three abilities.
 
 Of course, this is just a classification for easy understanding; these three abilities cannot be perfectly separated like slicing something with a knife. In most cases, the three abilities improve synergistically.
 
-## 가설: reasoning 능력을 높이는 가장 근본적인 방법 - 양질의 데이터.
 
-요즘 reasoning LLM관련 논문들을 보면, 많은 경우 따분한 피로감을 느끼는 경우가 많았다. 트리구조나 강화학습 등의 방법론에 너무 매몰이 되어, 방법론이 본질에 우선하는 주객전도의 경우를 많이 보았다. 하지만 훌륭한 연구는 본질에 충실해야 하며, 그렇지 못한 연구는 결코 문제 해결을 해낼 수 없을 것이라고 생각한다.
+## Hypothesis: The Fundamental Key to Improving Reasoning Ability—High-Quality Data
 
-그렇다면 reasoning 능력의 본질은 무엇일까. 앞서 얘기했듯, 바로 학습데이터 속 추론과정 정보의 양이다. 현재 학습데이터는 그 양이 너무 미미해,
+Recently, as I’ve been reading papers on reasoning in LLMs, I often find myself fatigued by the overly complex methods being proposed. Many seem to be fixated on methods like tree structures and reinforcement learning, placing the methodology before the essence of the problem. I believe that truly impactful research must remain grounded in the core of the issue; otherwise, it will fail to solve the problem.
 
+So, what is the essence of reasoning ability? As mentioned earlier, it's the amount of information about the reasoning process embedded in the training data. However, the current issue is that this information is far too sparse. The total amount of reasoning information is a product of the information density and the volume of language data. No matter how much data we have, if the density of reasoning information is too low, the overall amount of that information remains limited.
+
+The solution, then, seems simple: Why not capture all the reasoning processes happening in the human mind into linguistic form and train models on that data? This is the hypothesis I’m considering.
+
+However, two bottlenecks emerge here:
+- **First**, how do we obtain such data?
+    - This problem seems to require more understanding of fields like linguistics, psychology, logic, and psychoanalysis, rather than pure computer science.
+- **Second**, how much of this data is necessary?
+    - Meta AI explored a similar philosophy (quality over quantity) in a paper called [LIMA](https://arxiv.org/pdf/2305.11206), where they used at least 1,000 examples. In my case, since the text would also need to contain logical information, it would likely be much longer, requiring even more data to capture the relevant patterns.
+
+Going any further would lead to specific research ideas, so I’ll leave it here for now.
 

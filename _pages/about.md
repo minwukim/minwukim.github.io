@@ -16,6 +16,7 @@ I am also interested in computational social science, particularly at the inters
 
 You can find a more comprehensive overview of my experiences in my [CV](/files/MinwuKim_CV.pdf)
 
+If you would like to talk about research or potential collaboration, feel free to ping me at mwk300@nyu.edu
 
 Thoughts on the LLM
 ----
@@ -26,7 +27,7 @@ Having a machine that understands human language means a lot. I jot down some th
   - According to the Picture Theory, the structure of the world parallels that of language. If a machine comprehends language, it is reasonable to consider it intelligent.
 - **[Abilities of LLMs and Information Density in Language](/posts/information-density/)**
   - The capabilities of LLMs fundamentally stem from their training data. From this perspective, we can understand what LLMs excel at and where their limitations lie.
-- **[From Unstructured to Structured - Now We Have More Data!](sds)**
+- **[From Unstructured to Structured - A Quatitative Breakthrough of Data](sds)**
   - Between structured and unstructured data lies a tradeoff between the volume of information and its structure. LLMs, however, may serve as a breakthrough to overcome this challenge.
 - **[OpenAI o1 & Recent Trend of LLMs](/posts/o1/)**
   - Some thoughts after playing with o1.
@@ -37,12 +38,11 @@ I Like
 - Klein Blue
 - Tottenham Hotspur FC
 - IU
-- Kanye West
-- The Shawshank Redemption
-- Wong Kar-wai
-- Murakami Haruki essays
+- Tyler The Creator
+- Bitcoin
 - Hermann Hesse
 - Kettle Chips
+- Marathon
 
 To know more about my taste, you are welcomed to visit my <a href="https://minwukim.net" target="_blank">personal website</a>
  (Korean alert though)
