@@ -27,7 +27,7 @@ This got me thinking: when it comes to achieving AGI, artificial general intelli
 
 To explain this, there's nothing better than Wittgenstein's Picture Theory. According to the Picture Theory, **"the structure of the world and the structure of language are the same."** Let me give a simple example. Imagine there's news about a car accident (just making this up):
 
-*"Last Monday afternoon, a car accident occurred in Gangnam-gu, Seoul. According to the police, the accident started when a sedan overtook another vehicle in the first lane. The car attempting to overtake suddenly braked hard, and the following vehicle couldn't avoid the collision. Although both cars were seriously damaged, fortunately, there were no casualties. The drivers sustained minor injuries and received first aid at the scene."*
+*"Last Monday afternoon, a car accident occurred on Melrose St., LA. According to the police, the accident started when a sedan overtook another vehicle in the first lane. The car attempting to overtake suddenly braked hard, and the following vehicle couldn't avoid the collision. Although both cars were seriously damaged, fortunately, there were no casualties. The drivers sustained minor injuries and received first aid at the scene."*
 
 Even though we didn’t see or hear the accident firsthand, we can roughly understand the situation because language paints a picture of the accident scene.
 
