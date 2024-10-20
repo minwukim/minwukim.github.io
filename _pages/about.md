@@ -39,8 +39,8 @@ I Like
 - Tottenham Hotspur FC
 - IU
 - Tyler The Creator
-- Bitcoin
 - Hermann Hesse
+- Bitcoin
 - Kettle Chips
 - Marathon
 
