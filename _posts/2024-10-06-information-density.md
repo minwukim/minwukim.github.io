@@ -44,8 +44,7 @@ Next, we need to review the efforts made to improve these three abilities.
 
 **Third is reasoning ability.** The most effective method for enhancing reasoning ability has been Chain of Thought (CoT), refers to a simple prompt engineering that asks the LLM to provide an answer step-by-step rather than giving a direct response. CoT has proven to be significantly effective. Subsequent methods like SC-CoT, ToT, PRM, ORM, and MCTS can all be seen as variations or extensions of CoT. The core of all these methodologies is breaking down complex problems into smaller, manageable parts. Also, I observed one of the recent trends in the academia is the multi-turn instrinsic self-correction (like RISE or SCoRE paper), but I won't go into those details in this article.
 
-Of course, this is just a classification for easy understanding; these three abilities cannot be perfectly separated like slicing something with a knife. In most cases, the three abilities improve synergistically.
-
+Of course, this is just a classification for easy understanding; it is impossible to draw clear dividing lines among them. In most cases, the three abilities improve synergistically.
 
 ## Hypothesis: The Fundamental Key to Improving Reasoning Ability—High-Quality Data
 
@@ -53,13 +52,6 @@ Recently, as I’ve been reading papers on reasoning in LLMs, I often find mysel
 
 So, what is the essence of reasoning ability? As mentioned earlier, it's the amount of information about the reasoning process embedded in the training data. However, the current issue is that this information is far too sparse. The total amount of reasoning information is a product of the information density and the volume of language data. No matter how much data we have, if the density of reasoning information is too low, the overall amount of that information remains limited.
 
-The solution, then, seems simple: Why not capture all the reasoning processes happening in the human mind into linguistic form and train models on that data? This is the hypothesis I’m considering.
+The solution, then, seems simple: Why not capture all the reasoning processes happening in the human mind into linguistic form and train models on that data? This is the hypothesis I’m conjecturing.
 
-However, two bottlenecks emerge here:
-- **First**, how do we obtain such data?
-    - This problem seems to require more understanding of fields like linguistics, psychology, logic, and psychoanalysis, rather than pure computer science.
-- **Second**, how much of this data is necessary?
-    - Meta AI explored a similar philosophy (quality over quantity) in a paper called [LIMA](https://arxiv.org/pdf/2305.11206), where they used at least 1,000 examples. In my case, since the text would also need to contain logical information, it would likely be much longer, requiring even more data to capture the relevant patterns.
-
-Going any further would lead to specific research ideas, so I’ll leave it here for now.
-
+Actually, this lies on the branch of LLM research that is being actively explored recently - to elicit the desired abilities with well-refined data. The main challenge in my task is how to make a dataset that contains the reasoning processes of human beings? Well, this is one of the projects I'm working on right now. I will come back and update if there is any notable progress. 
