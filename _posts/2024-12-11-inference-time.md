@@ -1,5 +1,5 @@
 ---
-title: 'Abilities of LLMs and Information Density in Language'
+title: 'Thoughts on Inference-time Compute'
 permalink: /posts/inference-time/
 # tags:
 #   - cool posts
