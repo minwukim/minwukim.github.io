@@ -1,6 +1,6 @@
 ---
 title: 'Abilities of LLMs and Information Density in Language'
-permalink: /posts/information-density/
+permalink: /posts/inference-time/
 # tags:
 #   - cool posts
 #   - category1

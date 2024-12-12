@@ -12,11 +12,11 @@ I’m Minwu Kim, a graduate researcher at New York University Abu Dhabi, where I
 
 My research focuses on **reasoning with large language models (LLMs)**. I aim to enhance our understanding of the inherent characteristics of LLMs and develop methods to align and improve their reasoning capabilities in accordance with these unique traits. 
 
-Previously, I worked in **computational social science**, exploring topics in **corporate finance** and **macroeconomics**. You can read more about my journey and why I pivoted to LLM research [here](/posts/unstructured/).  
+Previously, I worked in computational social science, exploring topics in corporate finance and macroeconomics. You can read more about my journey and why I pivoted to LLM research [here](/posts/unstructured/).  
 
 For a detailed look at my background and experiences, feel free to check out my [CV](/files/MinwuKim_CV.pdf).  
 
-If you would like to talk about research or potential collaboration, feel free to ping me at ***mwk300[at]nyu.edu*** :\)
+If you would like to talk about research or potential collaboration, feel free to ping me at *mwk300[at]nyu.edu** :\)
 
 
 Thoughts on the LLM
@@ -30,7 +30,7 @@ Having a machine that understands human language means a lot. I jotted down some
   - The capabilities of LLMs fundamentally stem from their training data. From this perspective, we can understand what LLMs excel at and where their limitations lie.
 - **[From Unstructured to Structured - A Quatitative Breakthrough of Data](/posts/unstructured/)**
   - Between structured and unstructured data lies a tradeoff between the volume of information and its structure. LLMs, however, may serve as a breakthrough to overcome this challenge.
-- **[Thoughts on Inference-time Compute](/posts/inferernce-time)**
+- **[Thoughts on Inference-time Compute](/posts/inference-time)**
   - Personal ideas on why and how to let the LLMs think more.
 
 - **[OpenAI o1 & Recent Trend of LLMs](/posts/o1/)**
