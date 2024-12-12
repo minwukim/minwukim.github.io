@@ -25,15 +25,17 @@ This got me thinking: when it comes to achieving AGI, artificial general intelli
 
 ## 2. Wittgenstein's Picture Theory
 
-To explain this, there's nothing better than Wittgenstein's Picture Theory. According to the Picture Theory, **"the structure of the world and the structure of language are the same."** Let me give a simple example. Imagine there's news about a car accident (just making this up):
+To explain this, there's nothing better than Wittgenstein's Picture Theory. According to the Picture Theory, **"the structure of the world parallels the structure of language."** 
+
+Let me give a simple example. Imagine there's news about a car accident (just making this up):
 
 *"Last Monday afternoon, a car accident occurred on Melrose St., LA. According to the police, the accident started when a sedan overtook another vehicle in the first lane. The car attempting to overtake suddenly braked hard, and the following vehicle couldn't avoid the collision. Although both cars were seriously damaged, fortunately, there were no casualties. The drivers sustained minor injuries and received first aid at the scene."*
 
-Even though we didn’t see or hear the accident firsthand, we can roughly understand the situation because language paints a picture of the accident scene.
+Even though we didn’t witness the accident firsthand, we can still roughly understand the situation. This is because language paints a picture of the accident scene.
 
-Conversely, if we only saw a video of the accident and didn’t read the text, we could still grasp the situation. Some might argue that this disproves the idea that "language is the tool for understanding the world." But the argument still holds. We recognize the video as an accident because we see the cars crashing, and the fact that "the cars crashed" cannot be defined without language. Even though I may not consciously think of the exact words "the cars crashed" when I picture the scene in my mind, it’s clear that we cannot process this without the tool of language. (I hope this gives you at least a rough idea of what I'm trying to say. Even I'm not entirely sure, so I can't explain it properly. I just hope you understand even if I’m not making perfect sense.)
+Conversely, if we only saw a video of the accident and didn’t read the text, we could still grasp the situation. Some might argue that this disproves the idea that "language is the tool for understanding the world." But the argument still holds. We recognize the video as an accident because we see the cars crashing, and the fact that "the cars crashed" cannot be defined without language. Even though I may not consciously think of the exact words "the cars crashed" when I picture the scene in my mind, it’s clear that we cannot process this without the tool of language. (I hope this gives you at least a rough idea of what I'm trying to say. Actually I'm not entirely sure either, so I can't explain it properly. It is fine as long as you can somewhat grasp where I'm going here.)
 
-Let’s take it a step further and explore how the "structure of the world" and the "structure of language" are the same. The image below is of Van Gogh’s bedroom in Arles. The structure of the world is as follows:
+Let’s take it a step further and explore how the "structure of the world" and the "structure of language" are equivalent. The image below is of Van Gogh’s bedroom in Arles. The structure of the world is as follows:
 ![arles](/images/arles.jpg)
 - First, at the smallest level, there are "objects" like the picture frame, the square, the wall, etc. In the structure of language, this corresponds to "names."
 - Multiple objects combine to form "states of affairs." For example, "The picture frame is square," or "The wall is blue." In the structure of language, this corresponds to "elementary propositions."
@@ -53,6 +55,8 @@ So, language is the tool for understanding the world, and furthermore, it’s wh
 
 
 ## 3. The Meaning of the Picture Theory as Seen Through LLM Multi-Agent Systems
+
+Philosophical discussions like these may seem abstract at first glance, but within the context of AI technology, they take on a much more practical significance.
 
 Recently, I came across a very interesting paper: [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf) by Stanford researchers, and the content is quite fascinating.
 ![simulacre](/images/simulacre.webp)

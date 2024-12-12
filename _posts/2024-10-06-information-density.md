@@ -1,10 +1,7 @@
 ---
 title: 'Abilities of LLMs and Information Density in Language'
-permalink: /posts/information-density/
-# tags:
-#   - cool posts
-#   - category1
-#   - category2
+permalink: /posts/inference-time-compute/
+
 ---
 
 ## Idea of Information Density
@@ -46,7 +43,7 @@ Next, we need to review the efforts made to improve these three abilities.
 
 Of course, this is just a classification for easy understanding; it is impossible to draw clear dividing lines among them. In most cases, the three abilities improve synergistically.
 
-## Hypothesis: The Fundamental Key to Improving Reasoning Ability—High-Quality Data
+## Hypothesis: The Fundamental Key to Improving Reasoning Ability — High-Quality Data
 
 Recently, as I’ve been reading papers on reasoning in LLMs, I often find myself fatigued by the overly complex methods being proposed. Many seem to be fixated on methods like tree structures and reinforcement learning, placing the methodology before the essence of the problem. I believe that truly impactful research must remain grounded in the core of the issue; otherwise, it will fail to solve the problem.
 
