@@ -16,7 +16,7 @@ Previously, I worked in computational social science, exploring topics in corpor
 
 For a detailed look at my background and experiences, feel free to check out my [CV](/files/MinwuKim_CV.pdf).  
 
-If you would like to talk about research or potential collaboration, feel free to ping me at *mwk300[at]nyu.edu** :\)
+If you would like to talk about research or potential collaboration, feel free to ping me at *mwk300[at]nyu.edu* :\)
 
 
 Thoughts on the LLM
