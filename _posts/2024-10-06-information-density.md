@@ -1,6 +1,6 @@
 ---
 title: 'Abilities of LLMs and Information Density in Language'
-permalink: /posts/inference-time-compute/
+permalink: /posts/information-density/
 
 ---
 
