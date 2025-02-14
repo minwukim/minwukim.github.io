@@ -25,21 +25,22 @@ If you would like to talk about research or potential collaboration, feel free t
 
 News
 -----
-- 02.2025: Preprint for my new paper **[Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges](https://arxiv.org/abs/2502.08680)** is out!
-- 10.2024: My paper **[Interpretable machine learning model for predicting activist investment targets](https://www.sciencedirect.com/science/article/pii/S240591882400031X)** is published at *The Journal of Finance and Data Science*!
+- 02.2025: Preprint for my new [paper](https://arxiv.org/abs/2502.08680) **Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges** is out!
+- 10.2024: My [paper](https://www.sciencedirect.com/science/article/pii/S240591882400031X) **Interpretable Machine Learning Model for Predicting Activist Investment Targets** is published at *The Journal of Finance and Data Science*!
 - 09.2024: Started working as a graduate researcher at NYUAD!
 
 
 
 Publications & Preprints
 ------
-**[Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges](https://arxiv.org/abs/2502.08680)**  
+**Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges** ([link](https://arxiv.org/abs/2502.08680))  
 _Minwu Kim*, Safal Shrestha*, Keith Ross_  
 Preprint; submitted to ACL 2025
 
-**[Interpretable machine learning model for predicting activist investment targets](https://www.sciencedirect.com/science/article/pii/S240591882400031X)**  
+**Interpretable Machine Learning Model for Predicting Activist Investment Targets** ([link](https://www.sciencedirect.com/science/article/pii/S240591882400031X))  
 _Minwu Kim*, Sidahmed Benabderrahmane, Talal Rahwan_  
-The Journal of Finance and Data Science, 2024 
+The Journal of Finance and Data Science, 2024
+
 
 
 
