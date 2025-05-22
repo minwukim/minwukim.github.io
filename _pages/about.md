@@ -12,8 +12,6 @@ I’m Minwu, a graduate researcher at New York University Abu Dhabi, where I’m
 
 My research focuses on **mathematical reasoning with large language models (LLMs)**. I'm especially interested in whether AI can solve hard math problems and what we should do by the time they eventually have mathematical intelligence that surpasses the one of human.
 
-I aim to enhance our understanding of the inherent characteristics of LLMs and develop methods to align and improve their reasoning capabilities in accordance with these unique traits. 
-
 Previously, I worked in computational social science, exploring topics in corporate finance and macroeconomics. 
 
 <!-- You can read more about my journey and why I pivoted to LLM research [here](/posts/unstructured/).   -->
@@ -25,6 +23,8 @@ If you would like to talk about research or potential collaboration, feel free t
 
 News
 -----
+- 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.14216) *Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning* is out!
+- 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is out!
 - 02.2025: Preprint for my new [paper](https://arxiv.org/abs/2502.08680) *Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges* is out!
 - 10.2024: My [paper](https://www.sciencedirect.com/science/article/pii/S240591882400031X) *Interpretable Machine Learning Model for Predicting Activist Investment Targets* is published at The Journal of Finance and Data Science!
 - 09.2024: Started working as a graduate researcher at NYUAD!
@@ -33,9 +33,15 @@ News
 
 Publications & Preprints
 ------
+Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning ([link](https://arxiv.org/abs/2505.14216))
+_Minwu Kim*, Anubhav Shrestha, Safal Shrestha, Aadim Nepal, Keith Ross_
+
+Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings ([link](https://arxiv.org/abs/2505.13718))
+_Safal Shrestha, Minwu Kim, Aadim Nepal, Anubhav Shrestha, Keith Ross_
+
 Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges ([link](https://arxiv.org/abs/2502.08680))  
 _Minwu Kim*, Safal Shrestha*, Keith Ross_  
-Preprint; submitted to ACL 2025
+Preprint.
 
 *Interpretable Machine Learning Model for Predicting Activist Investment Targets* ([link](https://www.sciencedirect.com/science/article/pii/S240591882400031X))  
 _Minwu Kim*, Sidahmed Benabderrahmane, Talal Rahwan_  
