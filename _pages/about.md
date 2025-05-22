@@ -74,11 +74,11 @@ I Like
 ------
 - Klein Blue
 - IU
+- Tottemham Hotspurs (trophy drought who?)
 - Tyler, the Creator
 - Hermann Hesse
 - Bitcoin
 - Kettle Chips
-- Marathon
 
 To know more about my taste, you are welcomed to visit my <a href="https://minwukim.net" target="_blank">personal website</a>
  *(Korean alert though)*
