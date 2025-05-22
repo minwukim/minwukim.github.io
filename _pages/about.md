@@ -34,12 +34,12 @@ News
 Publications & Preprints
 ------
 Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning ([link](https://arxiv.org/abs/2505.14216))  
+_Minwu Kim*, Anubhav Shrestha*, Safal Shrestha, Aadim Nepal, Keith Ross_  
 Preprint.  
-_Minwu Kim*, Anubhav Shrestha*, Safal Shrestha, Aadim Nepal, Keith Ross_
 
 Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings ([link](https://arxiv.org/abs/2505.13718))  
+_Safal Shrestha, Minwu Kim, Aadim Nepal, Anubhav Shrestha, Keith Ross_  
 Preprint.  
-_Safal Shrestha, Minwu Kim, Aadim Nepal, Anubhav Shrestha, Keith Ross_
 
 Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges ([link](https://arxiv.org/abs/2502.08680))  
 _Minwu Kim*, Safal Shrestha*, Keith Ross_  
