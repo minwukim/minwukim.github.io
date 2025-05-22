@@ -74,7 +74,7 @@ I Like
 ------
 - Klein Blue
 - IU
-- Tottemham Hotspurs (trophy drought who?)
+- Tottenham Hotspurs (trophy drought who?)
 - Tyler, the Creator
 - Hermann Hesse
 - Bitcoin
