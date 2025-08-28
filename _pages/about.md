@@ -23,6 +23,8 @@ If you would like to talk about research or potential collaboration, feel free t
 
 News
 -----
+- 08.2025: Happy to share that my [work](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is accepted at EMNLP 2025 Main Conference! See you at Suzhou, China (my hometown :D)
+- 06.2025: Preprint for my new [paper](https://arxiv.org/abs/2506.22638) *Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training* is out!
 - 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.14216) *Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning* is out!
 - 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is out!
 - 02.2025: Preprint for my new [paper](https://arxiv.org/abs/2502.08680) *Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges* is out!
@@ -33,19 +35,25 @@ News
 
 Publications & Preprints
 ------
-Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning ([link](https://arxiv.org/abs/2505.14216))  
+[5] Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning ([link](https://arxiv.org/abs/2505.14216))  
 _Minwu Kim*, Anubhav Shrestha*, Safal Shrestha, Aadim Nepal, Keith Ross_  
-Preprint.  
+Preprint
 
-Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings ([link](https://arxiv.org/abs/2505.13718))  
+[4] Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings ([link](https://arxiv.org/abs/2505.13718))  
 _Safal Shrestha, Minwu Kim, Aadim Nepal, Anubhav Shrestha, Keith Ross_  
-Preprint.  
+EMNLP 2025 Main Conference. 
 
-Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges ([link](https://arxiv.org/abs/2502.08680))  
+
+
+[3] Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training ([link](https://arxiv.org/abs/2506.22638))  
+_Aadim Nepal, Safal Shrestha, Anubhav Shrestha, Minwu Kim, Keith Ross_   
+Preprint. 
+
+[2] Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges ([link](https://arxiv.org/abs/2502.08680))  
 _Minwu Kim*, Safal Shrestha*, Keith Ross_  
 Preprint.
 
-*Interpretable Machine Learning Model for Predicting Activist Investment Targets* ([link](https://www.sciencedirect.com/science/article/pii/S240591882400031X))  
+[1] Interpretable Machine Learning Model for Predicting Activist Investment Targets ([link](https://www.sciencedirect.com/science/article/pii/S240591882400031X))  
 _Minwu Kim*, Sidahmed Benabderrahmane, Talal Rahwan_  
 The Journal of Finance and Data Science, 2024
 
