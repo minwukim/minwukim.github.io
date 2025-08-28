@@ -23,7 +23,7 @@ If you would like to talk about research or potential collaboration, feel free t
 
 News
 -----
-- 08.2025: Happy to share that my [work](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is accepted at EMNLP 2025 Main Conference! See you at Suzhou, China (my hometown :D)
+- 08.2025: Happy to share that my [work](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is accepted at EMNLP 2025 Main Conference! See you at Suzhou, China!
 - 06.2025: Preprint for my new [paper](https://arxiv.org/abs/2506.22638) *Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training* is out!
 - 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.14216) *Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning* is out!
 - 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is out!
