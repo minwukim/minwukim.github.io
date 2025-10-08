@@ -17,13 +17,11 @@ My research focuses on **LLM Reasoning**. Recently, I have been particularly int
 * Generating synthetic data that better capture the human cognitive process during reasoning.
 * Exploring test-time scaling methodologies that enable more effective reasoning and support longer context reasoning.
 
-Before that, I worked in computational finance as well.  
+Before that, I worked in computational finance as well, particularly in corporate finance and macroeconomics.  
 
 <!-- You can read more about my journey and why I pivoted to LLM research [here](/posts/unstructured/).   -->
 
-For a detailed look at my background and experiences, feel free to check out my [CV](/files/MinwuKim_CV.pdf).  
-
-If you would like to talk about research or potential collaboration, feel free to ping me at *mwk300[at]nyu[dot]edu* :\)
+For a detailed look at my background and experiences, feel free to check out my [CV](/files/MinwuKim_CV.pdf).  If you would like to talk about research or potential collaboration, feel free to ping me at *mwk300[at]nyu[dot]edu* :\)
 
 
 News
