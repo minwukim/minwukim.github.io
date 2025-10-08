@@ -13,7 +13,7 @@ I’m Minwu, a graduate researcher at New York University Abu Dhabi, where I’m
 My research focuses on **LLM Reasoning**. Recently, I have been particularly interested in:
 
 * Identifying and addressing the limitations of RLVR.
-* RLVR in data-scarce settings
+* RLVR in data-scarce settings.
 * Generating synthetic data that better capture the human cognitive process during reasoning.
 * Exploring test-time scaling methodologies that enable more effective reasoning and support longer context reasoning.
 
