@@ -8,11 +8,16 @@ redirect_from:
 ---
 Hello world! 👋 
 ===
-I’m Minwu, a graduate researcher at New York University Abu Dhabi, where I’m fortunate to be advised by [Professor Keith Ross](https://sites.google.com/nyu.edu/keithross/). I also completed my undergraduate degree here, majoring in Computer Science. 
+I’m Minwu, a graduate researcher at New York University Abu Dhabi, where I’m fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/). I also completed my undergraduate degree here, majoring in Computer Science. 
 
-My research focuses on **mathematical reasoning with large language models (LLMs)**. I'm especially interested in whether AI can solve hard math problems and what we should do by the time they eventually have mathematical intelligence that surpasses the one of human.
+My research focuses on **LLM Reasoning**. Recently, I have been particularly interested in:
 
-Previously, I worked in computational social science, exploring topics in corporate finance and macroeconomics. 
+* Identifying and addressing the limitations of RLVR.
+* RLVR in data-scarce settings
+* Generating synthetic data that better capture the human cognitive process during reasoning.
+* Exploring test-time scaling methodologies that enable more effective reasoning and support longer context reasoning.
+
+Before that, I worked in computational finance as well.  
 
 <!-- You can read more about my journey and why I pivoted to LLM research [here](/posts/unstructured/).   -->
 
@@ -23,7 +28,8 @@ If you would like to talk about research or potential collaboration, feel free t
 
 News
 -----
-- 08.2025: Happy to share that my [work](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is accepted at EMNLP 2025 Main Conference! See you at Suzhou, China!
+- 09.2025 One [work](https://arxiv.org/abs/2506.22638) is accepted at EMNLP 2025 BlackboxNLP Workshop!
+- 08.2025: One [work](https://arxiv.org/abs/2505.13718) is accepted at EMNLP 2025 Main Conference! See you at Suzhou, China!
 - 06.2025: Preprint for my new [paper](https://arxiv.org/abs/2506.22638) *Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training* is out!
 - 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.14216) *Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning* is out!
 - 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is out!
@@ -82,11 +88,10 @@ I Like
 ------
 - Klein Blue
 - IU
-- Tottenham Hotspurs (trophy drought who?)
+- Tottenham Hotspurs (Spursy who?)
 - Tyler, the Creator
 - Hermann Hesse
 - Bitcoin
-- Kettle Chips
 
 To know more about my taste, you are welcomed to visit my <a href="https://minwukim.net" target="_blank">personal website</a>
  *(Korean alert though)*
