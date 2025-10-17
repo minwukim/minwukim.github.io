@@ -42,7 +42,7 @@ Publications & Preprints
 ------
 [5] Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning ([link](https://arxiv.org/abs/2505.14216))  
 _Minwu Kim*, Anubhav Shrestha*, Safal Shrestha, Aadim Nepal, Keith Ross_  
-Preprint
+MATH-AI @ NeurIPS 2025.
 
 [4] Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings ([link](https://arxiv.org/abs/2505.13718))  
 _Safal Shrestha, Minwu Kim, Aadim Nepal, Anubhav Shrestha, Keith Ross_  
@@ -52,7 +52,7 @@ EMNLP 2025 Main Conference.
 
 [3] Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training ([link](https://arxiv.org/abs/2506.22638))  
 _Aadim Nepal, Safal Shrestha, Anubhav Shrestha, Minwu Kim, Keith Ross_   
-Preprint. 
+MATH-AI @ NeurIPS 2025; BlackboxNLP @ EMNLP 2025
 
 [2] Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges ([link](https://arxiv.org/abs/2502.08680))  
 _Minwu Kim*, Safal Shrestha*, Keith Ross_  
