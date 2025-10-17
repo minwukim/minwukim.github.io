@@ -27,6 +27,7 @@ For a detailed look at my background and experiences, feel free to check out my 
 
 News
 -----
+- 10.2025 Two papers to MATH-AI @ NeurIPS 2025!
 - 09.2025 One [work](https://arxiv.org/abs/2506.22638) is accepted at EMNLP 2025 BlackboxNLP Workshop!
 - 08.2025: One [work](https://arxiv.org/abs/2505.13718) is accepted at EMNLP 2025 Main Conference! See you at Suzhou, China!
 - 06.2025: Preprint for my new [paper](https://arxiv.org/abs/2506.22638) *Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training* is out!
@@ -52,7 +53,7 @@ EMNLP 2025 Main Conference.
 
 [3] Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training ([link](https://arxiv.org/abs/2506.22638))  
 _Aadim Nepal, Safal Shrestha, Anubhav Shrestha, Minwu Kim, Keith Ross_   
-MATH-AI @ NeurIPS 2025; BlackboxNLP @ EMNLP 2025
+MATH-AI @ NeurIPS 2025; BlackboxNLP @ EMNLP 2025.
 
 [2] Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges ([link](https://arxiv.org/abs/2502.08680))  
 _Minwu Kim*, Safal Shrestha*, Keith Ross_  
