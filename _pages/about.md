@@ -16,7 +16,7 @@ My research focuses on **LLM Reasoning**. Recently, I have been particularly int
 * Expanding capability to solve 'hard' problems (pass@k=0% problems) for LLMs ([link](https://github.com/rdi-berkeley/awesome-RLVR-boundary)).
 * Compositional generalization & Creativity
 * Synthetic data that better capture the human cognitive process during reasoning.
-* Test-time scaling methodologies that enable more effective reasoning and support longer context.
+* Test-time scaling methodologies that enable more effective reasoning and with longer memory.
 
 Before that, I worked in computational finance as well, particularly in corporate finance and macroeconomics.  
 
