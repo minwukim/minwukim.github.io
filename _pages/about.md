@@ -52,7 +52,7 @@ _**Minwu Kim***, Anubhav Shrestha*, Safal Shrestha, Aadim Nepal, and Keith Ross_
 MATH-AI @ NeurIPS 2025.
 
 [4] Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings ([link](https://arxiv.org/abs/2505.13718))  
-_Safal Shrestha, Minwu Kim, Aadim Nepal, Anubhav Shrestha, and Keith Ross_  
+_Safal Shrestha, **Minwu Kim**, Aadim Nepal, Anubhav Shrestha, and Keith Ross_  
 EMNLP 2025 Main Conference. 
 
 
