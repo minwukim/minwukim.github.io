@@ -8,17 +8,19 @@ redirect_from:
 ---
 Hello world! 👋 
 ===
-I’m Minwu, a graduate researcher at New York University Abu Dhabi, where I’m fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/). I also completed my undergraduate degree here, majoring in Computer Science. 
+I’m Minwu, a researcher at New York University Abu Dhabi, where I’m fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/). I also completed my undergraduate degree here, majoring in Computer Science. 
 
 My research focuses on **LLM Reasoning**. Recently, I have been particularly interested in:
 
 * Identifying and addressing the limitations of RLVR.
 * Expanding capability to solve 'hard' problems (pass@k=0% problems) for LLMs ([link](https://github.com/rdi-berkeley/awesome-RLVR-boundary)).
-* Compositional generalization & Creativity
+* Compositional generalization & Creativity.
 * Synthetic data that better capture the human cognitive process during reasoning.
 * Test-time scaling methodologies that enable more effective reasoning and with longer memory.
 
 Before that, I worked in computational finance as well, particularly in corporate finance and macroeconomics.  
+
+Before that, I worked on a startup project.
 
 <!-- You can read more about my journey and why I pivoted to LLM research [here](/posts/unstructured/).   -->
 
@@ -41,26 +43,30 @@ News
 
 Publications & Preprints
 ------
+[6] Difficulty-Rebalancing Prefix for Training Reasoning LLM (*working*) 
+_**Minwu Kim** and Keith Ross_  
+To be submitted to ICML 2026.
+
 [5] Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning ([link](https://arxiv.org/abs/2505.14216))  
-_Minwu Kim*, Anubhav Shrestha*, Safal Shrestha, Aadim Nepal, Keith Ross_  
+_**Minwu Kim***, Anubhav Shrestha*, Safal Shrestha, Aadim Nepal, and Keith Ross_  
 MATH-AI @ NeurIPS 2025.
 
 [4] Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings ([link](https://arxiv.org/abs/2505.13718))  
-_Safal Shrestha, Minwu Kim, Aadim Nepal, Anubhav Shrestha, Keith Ross_  
+_Safal Shrestha, Minwu Kim, Aadim Nepal, Anubhav Shrestha, and Keith Ross_  
 EMNLP 2025 Main Conference. 
 
 
 
 [3] Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training ([link](https://arxiv.org/abs/2506.22638))  
-_Aadim Nepal, Safal Shrestha, Anubhav Shrestha, Minwu Kim, Keith Ross_   
+_Aadim Nepal, Safal Shrestha, Anubhav Shrestha, **Minwu Kim**, Jalal Naghiyev, Ravid Shwartz-Ziv, and Keith Ross_   
 MATH-AI @ NeurIPS 2025; BlackboxNLP @ EMNLP 2025.
 
 [2] Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges ([link](https://arxiv.org/abs/2502.08680))  
-_Minwu Kim*, Safal Shrestha*, Keith Ross_  
+_Safal Shrestha*, **Minwu Kim***, and Keith Ross_  
 Preprint.
 
 [1] Interpretable Machine Learning Model for Predicting Activist Investment Targets ([link](https://www.sciencedirect.com/science/article/pii/S240591882400031X))  
-_Minwu Kim*, Sidahmed Benabderrahmane, Talal Rahwan_  
+_**Minwu Kim***, Sidahmed Benabderrahmane, and Talal Rahwan_  
 The Journal of Finance and Data Science, 2024
 
 
@@ -90,7 +96,8 @@ I Like
 - IU
 - Tottenham Hotspurs (Spursy who?)
 - Tyler, the Creator
-- Hermann Hesse
+- Dijon
+- Christopher Nolan
 - Bitcoin
 
 To know more about my taste, you are welcomed to visit my <a href="https://minwukim.net" target="_blank">personal website</a>
