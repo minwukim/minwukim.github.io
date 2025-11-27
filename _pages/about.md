@@ -99,6 +99,7 @@ I Like
 - Tyler, the Creator
 - Dijon
 - Christopher Nolan
+- John Bogle
 - Bitcoin
 
 To know more about my taste, you are welcomed to visit my <a href="https://minwukim.net" target="_blank">personal website</a>
