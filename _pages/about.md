@@ -44,7 +44,7 @@ News
 Publications & Preprints
 ------
 
-[6] Difficulty-Rebalancing Prefix for Training Reasoning LLM (work on progress)  
+[6] Difficulty-Rebalancing Prefix for Training Reasoning LLM (work in progress)  
 _**Minwu Kim** and Keith Ross_  
 To be submitted to ICML 2026.
 
