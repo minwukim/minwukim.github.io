@@ -29,7 +29,7 @@ For a detailed look at my background and experiences, feel free to check out my 
 
 News
 -----
-- 10.2025 Two papers to MATH-AI @ NeurIPS 2025!
+- 01.2026 New [paper](https://arxiv.org/abs/2601.20829) *Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning* is out! 
 - 09.2025 One [work](https://arxiv.org/abs/2506.22638) is accepted at EMNLP 2025 BlackboxNLP Workshop!
 - 08.2025: One [work](https://arxiv.org/abs/2505.13718) is accepted at EMNLP 2025 Main Conference! See you at Suzhou, China!
 - 06.2025: Preprint for my new [paper](https://arxiv.org/abs/2506.22638) *Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training* is out!
@@ -44,8 +44,8 @@ News
 Publications & Preprints
 ------
 
-[6] Difficulty-Rebalancing Prefix for Training Reasoning LLM (work in progress)  
-_**Minwu Kim** and Keith Ross_  
+[6] Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning ([link](https://arxiv.org/abs/2601.20829))   
+_**Minwu Kim**, Safal Shrestha, and Keith Ross_  
 To be submitted to ICML 2026.
 
 [5] Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning ([link](https://arxiv.org/abs/2505.14216))  
