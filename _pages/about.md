@@ -66,7 +66,7 @@ _Safal Shrestha*, **Minwu Kim***, and Keith Ross_
 Preprint.
 
 [1] Interpretable Machine Learning Model for Predicting Activist Investment Targets ([link](https://www.sciencedirect.com/science/article/pii/S240591882400031X))  
-_**Minwu Kim***, Sidahmed Benabderrahmane, and Talal Rahwan_  
+_**Minwu Kim**, Sidahmed Benabderrahmane, and Talal Rahwan_  
 The Journal of Finance and Data Science, 2024
 
 
