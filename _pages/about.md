@@ -43,9 +43,13 @@ News
 Publications & Preprints
 ------
 
-[6] Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning ([link](https://arxiv.org/abs/2601.20829))   
+[7] Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning ([link](https://arxiv.org/abs/2601.20829))   
 _**Minwu Kim**, Safal Shrestha, and Keith Ross_  
-To be submitted to ICML 2026.
+Preprint, under review, 2026.
+
+[6] On the Limits of Layer Pruning for Generative Reasoning in LLMs ([link](https://arxiv.org/abs/2602.01997))   
+_Safal Shrestha*, Anubhav Shrestha*, Aadim Nepal, **Minwu Kim**,  and Keith Ross_  
+Preprint, under review, 2026.
 
 [5] Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning ([link](https://arxiv.org/abs/2505.14216))  
 _**Minwu Kim***, Anubhav Shrestha*, Safal Shrestha, Aadim Nepal, and Keith Ross_  
@@ -92,14 +96,16 @@ Having a machine that understands human language means a lot. I jotted down some
 
 I Like
 ------
-- Klein Blue
-- IU
+- Klein/Cerulean Blue
 - Tottenham Hotspurs (Spursy who?)
+- IU
+- Ye/Kanye West
 - Tyler, the Creator
-- Dijon
+- [Dijon](https://pitchfork.com/reviews/albums/dijon-baby/)
 - Christopher Nolan
 - John Bogle
 - Bitcoin
+- [WSAJ](https://www.youtube.com/@wsaj)
 
 To know more about my taste, you are welcomed to visit my <a href="https://minwukim.net" target="_blank">personal website</a>
  *(Korean alert though)*
