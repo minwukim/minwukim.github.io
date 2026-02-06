@@ -103,6 +103,7 @@ I Like
 - Tyler, the Creator
 - [Dijon](https://pitchfork.com/reviews/albums/dijon-baby/)
 - Christopher Nolan
+- Hermann Hesse
 - John Bogle
 - Bitcoin
 - [WSAJ](https://www.youtube.com/@wsaj)
