@@ -8,15 +8,9 @@ redirect_from:
 ---
 Hello world! 👋 
 ===
-I’m Minwu, a researcher at New York University Abu Dhabi, where I’m fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/). I also completed my undergraduate degree here, majoring in Computer Science. 
+I’m Minwu, a researcher at Seoul National University, advised by [Youngjae Yu](https://pi.snu.ac.kr/). I am working on building world-event forecasting models/systems. 
 
-My research focuses on **LLM Reasoning**. Recently, I have been particularly interested in:
-
-* Identifying and addressing the limitations of RLVR.
-* Expanding capability to solve 'hard' problems (pass@k=0% problems) for LLMs ([link](https://github.com/rdi-berkeley/awesome-RLVR-boundary)).
-* Compositional generalization & Creativity.
-* Synthetic data that better capture the human cognitive process during reasoning.
-* Test-time scaling methodologies that enable more effective reasoning and with longer memory.
+Before that, I was in New York University Abu Dhabi, where I was fortunate to be advised by [Keith Ross](https://sites.google.com/nyu.edu/keithross/), working on LLM reasoning. I also completed my undergraduate degree here, majoring in Computer Science. 
 
 Before that, I worked in computational finance as well, particularly in corporate finance and macroeconomics.  
 
@@ -24,19 +18,20 @@ Before that, I worked on a startup project.
 
 <!-- You can read more about my journey and why I pivoted to LLM research [here](/posts/unstructured/).   -->
 
-For a detailed look at my background and experiences, feel free to check out my [CV](/files/MinwuKim_CV.pdf).  If you would like to talk about research or potential collaboration, feel free to ping me at *mwk300[at]nyu[dot]edu* :\)
+For a detailed look at my background and experiences, feel free to check out my [CV](/files/MinwuKim_CV.pdf).  If you would like to talk about research or potential collaboration, feel free to ping me at *minwukim[at]snu[dot]ac[dot]kr* :\)
 
 
 News
 -----
-- 01.2026 New [paper](https://arxiv.org/abs/2601.20829) *Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning* is out! 
-- 08.2025: One [work](https://arxiv.org/abs/2505.13718) is accepted at EMNLP 2025 Main Conference! See you at Suzhou, China!
-- 06.2025: Preprint for my new [paper](https://arxiv.org/abs/2506.22638) *Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training* is out!
-- 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.14216) *Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning* is out!
-- 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is out!
+- 07.2026 Joining SNU. I will continue working on LLM reasoning & world-event forecasting.
+- 01.2026 New [paper](https://arxiv.org/abs/2601.20829) *Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning* is out. 
+- 08.2025: One [work](https://arxiv.org/abs/2505.13718) is accepted at EMNLP 2025 Main Conference. 
+- 06.2025: Preprint for my new [paper](https://arxiv.org/abs/2506.22638) *Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training* is out.
+- 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.14216) *Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning* is out.
+- 05.2025: Preprint for my new [paper](https://arxiv.org/abs/2505.13718) *Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings* is out.
 - 02.2025: Preprint for my new [paper](https://arxiv.org/abs/2502.08680) *Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges* is out!
-- 10.2024: My [paper](https://www.sciencedirect.com/science/article/pii/S240591882400031X) *Interpretable Machine Learning Model for Predicting Activist Investment Targets* is published at The Journal of Finance and Data Science!
-- 09.2024: Started working as a graduate researcher at NYUAD!
+- 10.2024: My [paper](https://www.sciencedirect.com/science/article/pii/S240591882400031X) *Interpretable Machine Learning Model for Predicting Activist Investment Targets* is published at The Journal of Finance and Data Science.
+- 09.2024: Started working as a research assistant at NYUAD.
 
 
 
@@ -94,19 +89,3 @@ Having a machine that understands human language means a lot. I jotted down some
   - Some thoughts after playing with o1. -->
 
 
-I Like
-------
-- Klein/Cerulean Blue
-- Tottenham Hotspurs (Spursy who?)
-- IU
-- Ye/Kanye West
-- Tyler, the Creator
-- [Dijon](https://pitchfork.com/reviews/albums/dijon-baby/)
-- Christopher Nolan
-- Hermann Hesse
-- John Bogle
-- Bitcoin
-- [WSAJ](https://www.youtube.com/@wsaj)
-
-To know more about my taste, you are welcomed to visit my <a href="https://minwukim.net" target="_blank">personal website</a>
- *(Korean alert though)*
